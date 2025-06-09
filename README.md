@@ -6,7 +6,7 @@ This project summarizes long news articles into short and meaningful summaries u
 ✨ Abstractive Summarization – Creates new summary sentences using a pre-trained model
 
 ⚙️ How to Run
-Download the notebook file from this repository
+Download the notebook and csv file from this repository
 
 Open it in Google Colab or Jupyter Notebook
 

@@ -12,7 +12,7 @@ Open it in Google Colab or Jupyter Notebook
 
 💡 What’s Inside
 1. Dataset
-We used the CNN/DailyMail dataset which contains news articles and human-written summaries.
+We used the DailyMail dataset which contains news articles and human-written summaries.
 
 2. Steps in the Code
 Load and clean the text
